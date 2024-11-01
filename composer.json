@@ -1,0 +1,17 @@
+{
+    "name": "tdengine/ide-helper",
+    "type": "library",
+    "description": "IDE help for tdengine",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ipenge",
+            "email": "weixupeng999@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TDengine\\": "src"
+        }
+    }
+}
